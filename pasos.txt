@@ -1,0 +1,6 @@
+1 - Hacemos git init para iniciar el respositorio.
+2 - Comprobamos el git con git status.
+3* - Se puede cambiar el nombre de la rama con git branch -M "nombre".
+4 - Usamos git add . para pasar a staged.
+5 - Hacemos commit con git commit -m "nombre".
+6 - git status
